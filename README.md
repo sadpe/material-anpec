@@ -11,7 +11,7 @@ A lista é a seguinte:
 * [Material do Professor Assunção](https://www.acjassumpcao.com/)
 * [Material do Professor Roberto para Microeconomia](http://robguena.fearp.usp.br/anpec/)
 * [Dicas de Estudo para a Anpec de Roberta Olivieri](https://github.com/marcelogelati/material-anpec/blob/master/ANPEC%20Dicas.pdf)
-* [Preparatório Roberto G.](robguena.fearp.usp.br/anpec/)
+* [Preparatório Roberto G.](http://robguena.fearp.usp.br/anpec/)
 
 ## Dicas sobre a pós-graduação
 
