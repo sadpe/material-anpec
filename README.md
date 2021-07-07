@@ -13,6 +13,19 @@ A lista é a seguinte:
 * [Dicas de Estudo para a Anpec de Roberta Olivieri](https://github.com/marcelogelati/material-anpec/blob/master/ANPEC%20Dicas.pdf)
 * [Preparatório Roberto G.](http://robguena.fearp.usp.br/anpec/)
 
+## Cursos Pagos
+
+1. [Curso de Economia da FGV](https://epge.fgv.br)
+1. [Curso AproBI](https://aprobi.com.br/)
+2. [Intensivão, Atualização e Curso ANPEC 2021 CORECON-RJ](http://www.corecon-rj.org.br/lista_cursos.php?t=A)
+3. [Curso da Cecilia Menon - *ver roteiros de estudo para cada disciplina*](https://cursoanpec.com.br/completo2021)
+4. [Curso CATE UFRJ](http://www.cursocate.com.br/)
+
+## Canais do Youtube/Vimeo/Podcasts
+
+1. [CanalAmanda Aires ](https://www.youtube.com/watch?v=Y57R45eOdOI&t=8s)
+1. [Canal Matemática Universitária - Prof. Renan Lima](https://www.youtube.com/channel/UC6TTtp9Hdx7GUz0OjrVg1_Q)
+
 ## Dicas sobre a pós-graduação
 
 * [Guia da pós-graduação em economia de Mateus Maciel e outros](https://www.dropbox.com/sh/07fejkxd569fry9/AADO4KW4LXOHJfQihxFbAT2ba?dl=0)
@@ -20,3 +33,9 @@ A lista é a seguinte:
 ## Contato
 
 Caso queiram sugerir mais materiais, basta me enviar um e-mail em marcelogelati@gmail.com ou me mandar uma mensagem no [Twitter](twitter.com/marcelogelati). Mais que isso, caso queiram materiais que tenham a resolução das provas, entrem em contato comigo pedindo que eu disponibilizo para vocês.
+
+## Data da Inscrição, Prova e Site Antigo
+
+* Inscrições até **20/08/2021** no site http://www.anpec.org.br/novosite/br
+* Exame nos dias **30/09/2021 e 01/10/2021**
+* Antigo site: https://exame.anpec.org.br/index.php?r=site/index
