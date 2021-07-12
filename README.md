@@ -29,6 +29,15 @@ A lista é a seguinte:
 ## Dicas sobre a pós-graduação
 
 * [Guia da pós-graduação em economia de Mateus Maciel e outros](https://www.dropbox.com/sh/07fejkxd569fry9/AADO4KW4LXOHJfQihxFbAT2ba?dl=0)
+* [ANPEC 2021](https://www.lncc.br/~alm/cursos/anpec21/anpec.pdf)
+* [ANPEC 2020](https://www.lncc.br/~alm/cursos/anpec20/anpec.pdf)
+* [ANPEC 2012](https://www.lncc.br/~alm/cursos/anpec12/anpec.pdf)
+* [ANPEC 2012 SIMULADO](https://www.lncc.br/~alm/cursos/anpec12/simulado-sol.pdf)
+* [ANPEC MICRO II](https://home.ufam.edu.br/salomao/Micro%20II/2a%20Prova/Micro%20II%202a%20Prova%20-%20ANPEC.pdf)
+* [ANPEC MACRO II](https://home.ufam.edu.br/salomao/Macro%20II/2%C2%AA%20Prova/Macro%20II%20Prova%202%20-%20Anpec.pdf)
+* [PROF. CARLOS ALBERTO](http://www.carlosalberto.pro.br/arquivos/ppm3215.pdf)
+* [ANPEC UFF](https://www.professores.uff.br/anamluz/wp-content/uploads/sites/36/2017/08/Lista_anpec.pdf)
+* [PROFESSOR GADELHA](https://srbgadelha.files.wordpress.com/2010/12/16-crescimento-a-longo-prazo.pdf)
 
 ## Contato
 
