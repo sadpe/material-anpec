@@ -43,6 +43,37 @@ A lista é a seguinte:
 
 Caso queiram sugerir mais materiais, basta me enviar um e-mail em marcelogelati@gmail.com ou me mandar uma mensagem no [Twitter](twitter.com/marcelogelati). Mais que isso, caso queiram materiais que tenham a resolução das provas, entrem em contato comigo pedindo que eu disponibilizo para vocês.
 
+## UFAM
+
+https://home.ufam.edu.br/salomao/  
+
+https://home.ufam.edu.br/salomao/Introducao%20a%20macro/1a%20Prova/Intromacro%202a%20prova%20(2017)%20-%20Anpec.pdf  
+https://home.ufam.edu.br/salomao/Introducao%20a%20macro/3a%20Prova/Exercicios/Quest%c3%b5es%20Anpec%20-%203a%20prova.pdf  
+https://home.ufam.edu.br/salomao/Introducao%20a%20macro/4a%20Prova/Quest%C3%B5es%20Anpec%20-%204a%20prova.pdf  
+
+https://home.ufam.edu.br/salomao/Introducao%20a%20micro/1a%20Prova/Macro%200-1%20-%20Questoes%20Anpec.pdf  
+
+
+https://home.ufam.edu.br/salomao/Macro%20I/2a%20Prova/Macro%201%20prova%202%20-%20ANPEC.pdf  
+https://home.ufam.edu.br/salomao/Macro%20I/2a%20Prova/Macro%201%20prova%202%20-%20ANPEC.pdf  
+https://home.ufam.edu.br/salomao/Macro%20II/1%c2%aa%20Prova/Macro%20II%20prova%201%20parte%20I%20-%20ANPEC.pdf  
+https://home.ufam.edu.br/salomao/Macro%20II/1%c2%aa%20Prova/Macro%20II%20Prova%201%20parte%20II%20-%20ANPEC.pdf  
+https://home.ufam.edu.br/salomao/Macro%20II/2%c2%aa%20Prova/Macro%20II%20Prova%202%20-%20Anpec.pdf  
+https://home.ufam.edu.br/salomao/Macro%20II/3%c2%aa%20Prova/Macro%20II%20Prova%20III%20-%20Anpec.pdf  
+
+https://home.ufam.edu.br/salomao/Micro%20I/2a%20Prova/2a%20Prova%20-%20Anpec.pdf  
+https://home.ufam.edu.br/salomao/Micro%20II/1a%20Prova/Micro%20II%201a%20Prova%20-%20ANPEC.pdf  
+https://home.ufam.edu.br/salomao/Micro%20II/2a%20Prova/Micro%20II%202a%20Prova%20-%20ANPEC.pdf  
+
+## Microeconomia USP
+
+http://robguena.fearp.usp.br/anpec/
+
+
+## FORUMEIROS
+
+https://anpec2014.forumeiros.com/
+
 ## Data da Inscrição, Prova e Site Antigo
 
 * Inscrições até **20/08/2021** no site http://www.anpec.org.br/novosite/br
